@@ -48,6 +48,7 @@ GEM
       thor (>= 0.14, < 2.0)
     json (1.8.2)
     libv8 (3.16.14.7)
+    magnifier-rails (0.0.3)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
     mime-types (2.4.3)
@@ -116,6 +117,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jquery-rails
+  magnifier-rails
   rails (= 4.1.6)
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
